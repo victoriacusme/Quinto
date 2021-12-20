@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    margin-top: auto;
+    width: 900px;
+    height:500px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#imagen{
+    width: 300px;
+    height: 300px;
+    padding: 100px;
+    margin-left: 260px; 
+}
+
+#formato {
+   text-align-last: center;
+   width: 800px;
+   height: 100px;
+   background-color: black;
+   padding-left: 100px;
+   padding-right: 100px;
+}
+#mostrar{
+   background-color: crimson;
+   font-family: cursive;
+   font-size: 18px;
+   
+}
+#siguiente{
+   background-color: crimson;
+   font-family: cursive;
+   font-size: 18px;
+}
+#anterior{
+   background-color: crimson;
+   font-family: cursive;
+   font-size: 18px;
+}
+#ultimo{
+    background-color: crimson;
+    font-family: cursive;
+    font-size: 18px;
+}

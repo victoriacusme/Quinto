@@ -1,0 +1,14 @@
+.inputStyle
+{
+    color: green;
+    font-size: 25px;
+    border-style:1px red;
+    background-color: aqua;
+    border-radius: 10px
+    
+}
+h1
+{
+    color: red;
+    text-transform: uppercase;
+}
